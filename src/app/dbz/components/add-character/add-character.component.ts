@@ -10,14 +10,14 @@ export class AddCharacterComponent {
   @Output()
   public onNewCharacter: EventEmitter<DBZChar> = new EventEmitter();
 
-  public character: DBZChar = {name: '', power: 0};
+  public character: DBZChar = {id: '', name: '', power: 0};
 
   emitCharacter(): void {
-    console.log(this.character)
     if (this.character.name.length === 0 ) return;
 
     this.onNewCharacter.emit({...this.character});
 
+    this.character.id = '';
     this.character.name = '';
     this.character.power = 0;
   }
