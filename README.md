@@ -1,5 +1,5 @@
 # Bases
-This project is related to: Session 1-5 of the course [De cero a experto - Edición 2023](https://www.udemy.com/share/1041gS3@SVVFNwxt_Mx4X3iiUMr3UJ3AvdYjupUC5F5XxphlTpILN_rlgPlKG_1oNSoHUVl00Q==/).
+This project is related to: Session 1-6 of the course [De cero a experto - Edición 2023](https://www.udemy.com/share/1041gS3@SVVFNwxt_Mx4X3iiUMr3UJ3AvdYjupUC5F5XxphlTpILN_rlgPlKG_1oNSoHUVl00Q==/).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
